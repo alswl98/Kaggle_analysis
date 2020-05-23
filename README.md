@@ -1,7 +1,7 @@
 # kaggle_analysis
 
 ### 1. Jigsaw Multilingual Toxic Comment Classification
-> [Google](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/overview)
+> [Competition link](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/overview)
 
 
 >
