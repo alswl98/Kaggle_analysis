@@ -1,4 +1,4 @@
-# kaggle_analysis
+# 캐글 코드 분석하기
 
 ## 1. Jigsaw Multilingual Toxic Comment Classification
 > [Competition link](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/overview)
